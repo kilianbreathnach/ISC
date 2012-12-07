@@ -13,13 +13,13 @@
 		<link rel="stylesheet" href="css/theme/default.css" id="theme">
 
 
-		<script language="JavaScript" src="lib/js/head.min.js"></script>
-		<script language="JavaScript" src="js/reveal.js"></script>
-
-
 	</head>
 
 	<body>
+
+		<script language="JavaScript" src="lib/js/head.min.js"></script>
+		<script language="JavaScript" src="js/reveal.js"></script>
+
 
 		<div class="reveal">
 
