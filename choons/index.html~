@@ -1,322 +1,226 @@
 <!doctype html>
 <html lang="en">
 
-	<head>
-		<meta charset="utf-8">
+  <head>
+    <meta charset="utf-8">
+    <title>Kilian's Craic Talk</title>
 
-		<title>Kilian's Craic Talk</title>
+    <meta name="description" content="A super secret talk about cool stuff">
+    <meta name="author" content="Kilian Walsh">
 
-		<meta name="description" content="A super secret talk about cool stuff">
-		<meta name="author" content="Kilian Walsh">
-
-		<link rel="stylesheet" href="../reveal.js/css/reveal.css">
-		<link rel="stylesheet" href="../reveal.js/css/theme/simple.css" id="theme">
-
-
-	</head>
-
-	<body>
-
-		<div class="reveal">
-
-			<!-- Any section element inside of this container is displayed as a slide -->
-			<div class="slides">
-
-                                <section>
-                                <h2>
-                                        <font face="helvetica">Intellectually Stimulating Craic</font>
-                                </h2>
-                                <div>
-                                        <font face="helvetica">26 April 2013</font>
-                                </div>
-                                <div>
-                                        <font face="helvetica">Today, you will be enlightened by the erudite, sapient, and debonair Kilian Walsh</font>
-                                </div>
-                                <a href="https://www.youtube.com/watch?v=kSE15tLBdso">Light Entertainment</a>
-                                </section>
-
-                                <section>
-                                <h2>
-                                        <font face="helvetica">The History and Evolution of Classical Music</font>
-                                </h2>
-                                <h3>
-                                        <font face="helvetica">How to tell your Rachmaninoff from your Stroganoff</font>
-                                </h3>
-
-                                </section>
-
-                                <section>
-                                <h2>
-                                        <font face="helvetica">What is Classical Music?</font>
-                                </h2>
-                                <div>
-                                        <ul>
-                                                <li class="fragment">
-                                                <font face="helvetica">Wikipedia: "art music produced in, or rooted in, the traditions of Western liturgical and secular music"</font>
-                                                </li>
-                                                <li class="fragment">
-                                                <font face="helvetica">European</font>
-                                                </li>
-                                                <li class="fragment">
-                                                <font face="helvetica">Instrumentation</font>
-                                                </li>
-                                                <li class="fragment">
-                                                <font face="helvetica">Form</font>
-                                                </li>
-                                                <li class="fragment">
-                                                <font face="helvetica">Technical, Complex</font>
-                                                </li>
-                                      </ul>
-                                </div>
-                                </section>
-
-                                <section>
-
-                                        <section>
-                                        <h2>
-                                                <img src="http://img.docstoccdn.com/thumb/orig/2227826.png" />
-                                                <br />
-                                        </h2>
-                                        </section>
-
-                                        <section>
-                                        <h2>
-                                                <img src="http://www.artinthepicture.com/blog/wp-content/uploads/2007/11/continuity.jpeg" />
-                                                <br />
-                                        </h2>
-                                        </section>
-
-                                        <section>
-                                        <h2>
-                                                <img src="http://i.imgur.com/9Gfju.jpg" />
-                                        </h2>
-                                        </section>
-                                </section>
-
-                                <section>
-                                <h2>
-                                        <font face="helvetica">Futurology</font>
-                                </h2>
-                                <div>
-                                        <ul>
-                                                <li class="fragment">
-                                                <font face="helvetica">Trendspotting</font>
-                                                </li>
-                                                <li class="fragment">
-                                                <font face="helvetica">Think Tanks</font>
-                                                </li>
-                                                <li class="fragment">
-                                                <font face="helvetica">Business, Government (Military...)</font>
-                                                </li>
-                                                <li class="fragment">
-                                                <font face="helvetica">Institutions</font>
-                                                <ul>
-                                                        <li class="fragment">
-                                                        <font face="helvetica"><i>Association of Professional Futurists</i></font>
-                                                        </li>
-                                                        <li class="fragment">
-                                                        <font face="helvetica"><i>Future of Humanity Institute</i> at Oxford
-                                                        </font>
-                                                        </li>
-                                                        <li class="fragment">
-                                                        <font face="helvetica"><i>Institute for Ethics and Emerging Technologies (IEET)</i>
-                                                        </font>
-                                                        </li>
-                                                        <li class="fragment">
-                                                        <font face="helvetica"><i>Singularity Institute</i></font>
-                                                        </li>
-                                                </ul>
-                                                </li>
-                                                <li class="fragment">
-                                                <font face="helvetica">A fair share of crackpots - Religious/Cult</font>
-                                                </li>
-                                        </ul>
-                                <div>
-                                </section>
-
-                                <section>
-                                <h2>
-                                        <font face="helvetica">Notable People</font>
-                                </h2>
-                                <div>
-                                        <ul>
-                                                <li class="fragment">
-                                                <font face="helvetica">Ray Kurzweil - "The Age of Intelligent Machines," "The Singularity is Near"</font>
-                                                </li>
-                                                <li class="fragment">
-                                                <font face="helvetica">Robin Hanson - "Futarchy," blog - "Overcoming Bias"</font>
-                                                </li>
-                                                <lii class="fragment">
-                                                <font face="helvetica">George Dvorsky - bioethics esp. ethics for artificial beings and extraterrestrials</font>
-                                                </li>
-                                                <li class="fragment">
-                                                <font face="helvetica">Hugo de Garis - left TP for AI, studies evolvable hardware</font>
-                                                </li>
-                                        </ul>
-                                </div>
-                                </section>
-
-                                <section>
-                                <h2>
-                                        <font face="helvetica">Predictions</font>
-                                </h2>
-                                <div>
-                                        <ul>
-<!--                                            <li class="fragment">
-                                                <font face="helvetica">Futurology is predictions</font>
-                                                </li>                                                           -->
-                                                <li class="fragment">
-                                                <font face="helvetica">Why predict? - "Hope is a strange attractor"</font>
-                                                </li>
-                                        </ul>
-                                                <font face="helvetica">
-                                        <div style="text-align: left;">
-                                                <br>
-                                                </font>
-                                        </div>
-                                </div>
-                                <h4>
-                                        <font face="helvetica">Successes</font>
-                                </h4>
-                                <div>
-                                        <ul>
-                                                <li class="fragment">
-                                                <font face="helvetica">Social Networking (<i>Living Networks</i> - Ross Dawson)</font>
-                                                </li>
-                                                <li class="fragment">
-                                                <font face="helvetica">Computers beat chess players, global internet -Kurzweil
-                                                </li>
-                                        </ul>
-                                        <div style="text-align: left;">
-                                                <br>
-                                                </font>
-                                        </div>
-                               </div>
-                               <h4>
-                                        <font face="helvetica">Future</font>
-                               </h4>
-                               <div>
-                                        <ul>
-                                                <li class="fragment">
-                                                <font face="helvetica">Technology, Extended Life</font>
-                                                </li>
-                                                <li class="fragment">
-                                                <font face="helvetica">Space: expanded civilisations, new civilisations</font>
-                                                </li>
-                                                 <li class="fragment">
-                                                <font face="helvetica">War? Phase 1, phase 2...(World-systems Theory)</font>
-                                                </li>
-                                        </ul>
-                                </div>
-                                </section>
-
-                                <section>
-                                <h2>
-                                        <font face="helvetica">Transhumanism</font>
-                                </h2>
-                                <div>
-                                        <ul>
-                                                <li class="fragment">
-                                                <font face="helvetica">Extropy</font>
-                                                <ul>
-                                                        <li class="fragment">
-                                                        <font face="helvetica">Cryonics - since 1967</font>
-                                                        </li>
-                                                        <li class="fragment">
-                                                        <font face="helvetica">Avatars - within our lifetime?</font>
-                                                        </li>
-                                                </ul>
-                                                </li>
-                                                <li class="fragment">
-                                                <font face="helvetica">Human+</font>
-                                                </li>
-                                       </ul>
-                                </div>
-                                </section>
-
-                                <section>
-                                <h2>
-                                        <font face="helvetica">For Shits - Videos of Robots</font>
-                                </h2>
-                                <div>
-                                         <ul>
-                                                <li class="fragment">
-                                                <font face="helvetica">Winners of the Robot Hall of Fame 2012</font>
-                                                <ul>
-                                                        <li class="fragment">
-                                                        <font face="helvetica"><a href="http://www.youtube.com/watch?v=W1czBcnX1Ww">Big Dog</a></font>
-                                                        </li>
-                                                        <li class="fragment">
-                                                        <font face="helvetica"><a href="http://www.youtube.com/watch?v=nNbj2G3GmAo">NAO</a></font>
-                                                        </li>
-                                                </ul>
-                                                </li>
-                                                <li class="fragment">
-                                                <font face="helvetica">Animatronics...</font>
-                                                </li>
-                                       </ul>
-                                </div>
-                               </section>
-
-                               <section>
-                                <h2>
-                                        <font face="helvetica">Conclusions - The Future of Futurism</font>
-                                </h2>
-                                <div>
-                                        <ul>
-                                                <li class="fragment">
-                                                <font face="helvetica">Post-futurism</font>
-                                                </li>
-                                                <li class="fragment">
-                                                <font face="helvetica">Elsewise</font>
-                                                </li>
-                                       </ul>
-                                </div>
-                                </section>
-
-                                <section>
-                                <h2>
-                                        <font face="helvetica"> Thanks! </font>
-                                </h2>
-                                </section>
-
-			</div>
-
-		</div>
+    <link rel="stylesheet" href="../reveal.js/css/reveal.css">
+    <link rel="stylesheet" href="../reveal.js/css/theme/simple.css" id="theme">
 
 
-	<script src="../reveal.js/lib/js/head.min.js"></script>
-	<script src="../reveal.js/js/reveal.min.js"></script>
+  </head>
 
-	<script>
+  <body>
 
-			// Full list of configuration options available here:
-			// https://github.com/hakimel/reveal.js#configuration
-			Reveal.initialize({
-				controls: true,
-				progress: true,
-				history: true,
-				center: true,
+    <div class="reveal">
 
-				theme: Reveal.getQueryHash().theme, // available themes are in /css/theme
-				transition: Reveal.getQueryHash().transition || 'default', // default/cube/page/concave/zoom/linear/none
+      <!-- Any section element inside of this container is displayed as a slide -->
+      <div class="slides">
 
-				// Optional libraries used to extend on reveal.js
-				dependencies: [
-					{ src: '../reveal.js/lib/js/classList.js', condition: function() { return !document.body.classList; } },
-					{ src: '../reveal.js/plugin/markdown/showdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
-					{ src: '../reveal.js/plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
-					{ src: '../reveal.js/plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
-					{ src: '../reveal.js/plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
-					{ src: '../reveal.js/plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } }
-					// { src: 'reveal.js/plugin/remotes/remotes.js', async: true, condition: function() { return !!document.body.classList; } }
-				]
-			});
+        <section>
+        <h2>
+          <font face="helvetica">Intellectually Stimulating Craic</font>
+        </h2>
 
-	</script>
+        <div>
+          <font face="helvetica">26 April 2013</font>
+        </div>
+
+        <div>
+          <font face="helvetica">Today, you will be enlightened by the erudite, sapient, and debonair Kilian Walsh</font>
+        </div>
+
+        <a href="https://www.youtube.com/watch?v=kSE15tLBdso">Light Entertainment</a>
+        </section>
+
+        <section>
+        <h2>
+          <font face="helvetica">The History and Evolution of Classical Music</font>
+        </h2>
+
+        <h3>
+          <font face="helvetica">How to tell your Rachmaninoff from your Stroganoff</font>
+        </h3>
+
+        </section>
+
+        <section>
+        <h2>
+          <font face="helvetica">What is Classical Music?</font>
+        </h2>
+
+        <div>
+          <ul>
+            <li class="fragment">
+            <font face="helvetica">Wikipedia: "art music produced in, or rooted in, the traditions of Western liturgical and secular music"</font>
+            </li>
+            <li class="fragment">
+            <font face="helvetica">European</font>
+            </li>
+            <li class="fragment">
+            <font face="helvetica">Instrumentation</font>
+            </li>
+            <li class="fragment">
+            <font face="helvetica">Form</font>
+            </li>
+            <li class="fragment">
+            <font face="helvetica">Technical, Complex</font>
+            </li>
+          </ul>
+        </div>
+        </section>
+
+        <section>
+
+        <section>
+        <h2>
+          <img src="http://img.docstoccdn.com/thumb/orig/2227826.png" />
+          <br />
+        </h2>
+        </section>
+
+        <section>
+        <h2>
+          <img src="http://www.westsidepioneer.com/Articles/122310/CoronadoFullOrchestra.jpg" />
+          <br />
+        </h2>
+        </section>
+
+        </section>
+
+        <section>
+        <h2>
+          <font face="helvetica">Where Does Music Come From?</font>
+        </h2>
+
+        <h2>
+          <img src="http://graphics8.nytimes.com/images/2012/05/29/science/29FLUT_SPAN/29FLUT-articleLarge.jpg" />
+        </h2>
+
+        <h4>
+          <font face="helvetica">Bone flute found in Germany from over 40,000 years ago, comparable in age to oldest cave paintings</font>
+        </h4>
+
+        </section>
+
+        <section>
+        <h2>
+          <font face="helvetica">Some Music Theory</font>
+        </h2>
+
+        <div>
+          <ul>
+            <li class="fragment">
+            <font face="helvetica">Sounds - Physics!</font>
+            </li>
+            <li class="fragment">
+            <font face="helvetica">Scales</font>
+            </li>
+            <li class="fragment">
+            <font face="helvetica">Relation to other styles of music</font>
+            </li>
+            <li class="fragment">
+            <font face="helvetica">Chords</font>
+            </li>
+            <li class="fragment">
+            <font face="helvetica">Tuning, Instrumentation</font>
+            </li>
+          </ul>
+        </div>
+       </section>
+
+        <section>
+        <h2>
+          <font face="helvetica">Medieval, Renaissance</font>
+        </h2>
+
+        <div>
+          <ul>
+            <li class="fragment">
+            <font face="helvetica">Instruments: flute, lute, hurdy gurdy</font>
+            </li>
+            <li class="fragment">
+            <font face="helvetica">Monophonic mostly, <a href="https://www.youtube.com/watch?v=kSE15tLBdso">Gregorian Chant</a>
+</font>
+            </li>
+          </ul>
+        </div>
+
+        </section>
+
+        <section>
+        <h2>
+          <font face="helvetica">Baroque</font>
+        </h2>
+        </section>
+
+        <section>
+        <h2>
+          <font face="helvetica">Classical</font>
+        </h2>
+        </section>
+
+        <section>
+        <h2>
+          <font face="helvetica">Romantic</font>
+        </h2>
+        </section>
+
+        <section>
+        <h2>
+          <font face="helvetica">Impressionism</font>
+        </h2>
+        </section>
+
+        <section>
+        <h2>
+          <font face="helvetica">Neoclassical</font>
+        </h2>
+        </section>
+
+      </div>
+
+    </div>
+
+
+    <script src="../reveal.js/lib/js/head.min.js"></script>
+    <script src="../reveal.js/js/reveal.min.js"></script>
+
+    <script>
+
+      // Full list of configuration options available here:
+      // https://github.com/hakimel/reveal.js#configuration
+
+      Reveal.initialize({
+        controls: true,
+        progress: true,
+        history: true,
+        center: true,
+
+        theme: Reveal.getQueryHash().theme, // available themes are in /css/theme
+        transition: Reveal.getQueryHash().transition || 'default', // default/cube/page/concave/zoom/linear/none
+
+        // Optional libraries used to extend on reveal.js
+        dependencies: [
+        { src: '../reveal.js/lib/js/classList.js', condition: function() { return !document.body.classList; } },
+        { src: '../reveal.js/plugin/markdown/showdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+        { src: '../reveal.js/plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+        { src: '../reveal.js/plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+        { src: '../reveal.js/plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
+        { src: '../reveal.js/plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } }
+        // { src: 'reveal.js/plugin/remotes/remotes.js', async: true, condition: function() { return !!document.body.classList; } }
+        ]
+      });
+
+    </script>
 
 
 
-	</body>
+  </body>
+
 </html>
 
